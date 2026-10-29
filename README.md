@@ -1,6 +1,5 @@
 # Hi ☺
-My name is Caroline Lee and this is my GitHub, check out my personal website!
-<a href = https://carrie-sf.github.io/portfolio/>
+My name is Caroline Lee and this is my GitHub, check out my <a href = https://carrie-sf.github.io/portfolio/>personal website!</a>
 <br>
 <br>
 ☆Double majoring in Information Science (Data Science Concentration) and Plant Science (Bioinformatics Concentration) @Cornell University
